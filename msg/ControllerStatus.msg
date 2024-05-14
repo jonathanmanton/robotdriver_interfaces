@@ -1,0 +1,8 @@
+float64 commanded_velocity
+float64 velocity_error
+float64 integrated_velocity_error
+float64 velocity_derivative
+float64 p_effort
+float64 i_effort
+float64 d_effort
+bool i_saturated

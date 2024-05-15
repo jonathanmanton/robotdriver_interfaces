@@ -1,3 +1,3 @@
-int64 motor_position
-float64 motor_velocity
-float64 motor_effort
+int32 motor_position
+float32 motor_velocity
+float32 motor_effort

@@ -1,7 +1,7 @@
-float64 p
-float64 i
-float64 d
-float64 i_min
-float64 i_max
+float32 p
+float32 i
+float32 d
+float32 i_min
+float32 i_max
 bool anti_windup
 ---
